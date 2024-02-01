@@ -5,7 +5,7 @@ I'm [Sithum Sankajith], a passionate [Computer Science Student] from [NSBM Green
 <img src="https://i.pinimg.com/736x/bd/ea/ab/bdeaabccb97914ec3b6171671201ea6c.jpg" alt="Profile Picture" width="200" height="200">
 
 - 🌱 I'm currently [Undergraduate Student].
-- 📫 How to reach me: [sithumsankajith2003@gmil.com].
+- 📫 How to reach me: [sithumsankajith2003@gmail.com].
 
 
 <img src="https://i.pinimg.com/originals/b3/b2/ca/b3b2caabfcb0b93be1b4201ed5d8bf12.jpg" alt="random" width="700" height="400">
