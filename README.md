@@ -17,20 +17,32 @@
   <img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sithumsankajith&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
 </div>
 
-<br></br>
+<br>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sithumsankajith&locale=en&hide_title=false&layout=compact&border_radius=20&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+<br>
+
+[![Sithumsankajith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sithumsankajith&bg_color=0d1117&color=878787&line=4c8ed9&point=878787&area=true&hide_border=true)](https://github.com/Sithumsankajith/github-readme-activity-graph)
+
+<br>
 
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,github,vscode,visualstudio,php,html,dotnet,cs,c,bootstrap,arduino,css,javascript,nodejs,python,mysql,mongodb,docker,azure,aws,postman,ae,apple,angular,gmail,ps,githubactions,git,stackoverflow,discord,gitlab,devto,figma" />
     
-</p></br>
+</p>
+<br>
+
+
 
 [![@sithumsankajith's Holopin board](https://holopin.me/sithumsankajith)](https://holopin.io/@sithumsankajith)
+<br>
 
 
-[![Sithumsankajith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sithumsankajith&bg_color=0d1117&color=878787&line=4c8ed9&point=878787&area=true&hide_border=true)](https://github.com/Sithumsankajith/github-readme-activity-graph)
 
 
 
