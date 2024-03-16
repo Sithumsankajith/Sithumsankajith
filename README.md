@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sithum-sankajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chathuranga-senarathne-ba8670210" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sithum-sankajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sithum-sankajith" height="30" width="40" /></a>
 </p>
 
 <div align="center">
@@ -23,12 +23,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,vue,angular,flutter,dart,kotlin,materialui,css,sass,tailwind,javascript,nodejs,typescript,python,mysql,mongodb,firebase,gcp,docker,kubernetes,azure,aws,cloudflare,netlify,heroku,postman,appwrite,atom,rust" />
-  </a>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,githubactions,git,stackoverflow,devto,bots,vscode,idea,figma" />
-  </a>
-</p>
+    <img src="https://skillicons.dev/icons?i=windows,github,vscode,visualstudio,php,html,dotnet,cs,c,bootstrap,arduino,css,javascript,nodejs,python,mysql,mongodb,docker,azure,aws,postman,ae,apple,angular,gmail,ps,githubactions,git,stackoverflow,discord,gitlab,devto,figma" />
+    
+</p></br>
 
 [![@sithumsankajith's Holopin board](https://holopin.me/sithumsankajith)](https://holopin.io/@sithumsankajith)
 
