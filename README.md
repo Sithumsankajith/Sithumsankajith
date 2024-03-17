@@ -7,6 +7,8 @@
 </p>
 <br>
 
+<p align="center" > <img src="https://media.tenor.com/QAIGME2QHqkAAAAi/capoo-gaming.gif"/></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sithumsankajith&label=Profile%20views&color=0e75b6&style=flat" alt="Sithumsankajith" /> </p>
 
 
