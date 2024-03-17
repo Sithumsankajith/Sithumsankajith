@@ -28,11 +28,11 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/sithumsankajith/github-readme-stats"><img alt="sithum sankajith's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithumsankajith&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/sithumsankajith/github-readme-stats"><img alt="sithum sankajith's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithumsankajith&background=00000000&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=00000000&text_color=878787" /></a>
 </div>
 
 
-[![Sithumsankajith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sithumsankajith&bg_color=0d1117&color=878787&line=4c8ed9&point=878787&area=true&hide_border=true)](https://github.com/Sithumsankajith/github-readme-activity-graph)
+[![Sithumsankajith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sithumsankajith&bg_color=00000000&color=878787&line=4c8ed9&point=878787&area=true&hide_border=true)](https://github.com/Sithumsankajith/github-readme-activity-graph)
 
 <br>
 
