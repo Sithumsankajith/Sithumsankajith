@@ -7,7 +7,7 @@
 </p>
 <br>
 
-<p align="center" > <img src="https://media.tenor.com/pmZDKGIsU5MAAAAi/pepe-matrix-pepe.gif"/></p>
+<p align="center" > <img src="https://media.tenor.com/pmZDKGIsU5MAAAAi/pepe-matrix-pepe.gif" width="150" height="200"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sithumsankajith&label=Profile%20views&color=10EC55&style=flat" alt="Sithumsankajith" /> </p>
 
