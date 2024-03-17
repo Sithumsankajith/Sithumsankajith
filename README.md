@@ -29,7 +29,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sithumsankajith&locale=en&custom_title=Sithum's+top+languages&layout=compact&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+    <a href="https://github.com/sithumsankajith/github-readme-stats"><img alt="sithum sankajith's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithumsankajith&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </div>
 
 <br>
@@ -50,6 +50,11 @@
 
 [![@sithumsankajith's Holopin board](https://holopin.me/sithumsankajith)](https://holopin.io/@sithumsankajith)
 <br>
+
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=3566E6&width=480&height=65&lines=To+See+The+World,;Things+Dangerous+To+Come,;To+Find+Each+Other+And+To+Feel.;That+Is+Life+.+.+.+.;+.+.+.;Sithum+Sankajith.&center=true"></a>
+</p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
