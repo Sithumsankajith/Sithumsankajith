@@ -7,10 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=Sithumsankajith&label=Profile%20views&color=FF0000&style=flat" alt="Sithumsankajith" />
 </p>
 
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-</div>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sithum-sankajith" target="blank">
@@ -55,11 +51,16 @@
   </a>
 </p>
 
+
 <br>
 
 [![@sithumsankajith's Holopin board](https://holopin.me/sithumsankajith)](https://holopin.io/@sithumsankajith)
 
 <br>
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=480&height=65&lines=To+See+The+World,;Things+Dangerous+To+Come,;To+Find+Each+Other+And+To+Feel.;That+Is+Life+.+.+.+.;+.+.+.;Sithum+Sankajith.&center=true">
