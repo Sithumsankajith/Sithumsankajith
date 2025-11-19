@@ -1,7 +1,6 @@
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</a>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=260&section=header&text=Sithum%20Sankajith&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Undergraduate%20&%20Tech%20Enthusiast&descAlignY=60&descAlign=50" width="100%" />
+</div>
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 <p align="left">
@@ -25,10 +24,8 @@
 </p>
 
 <div align="center">
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Sithumsankajith&custom_title=Sithum's+Github+Stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=FF0000&text_color=FF0000&icon_color=FF0000" width="370px" />
 
-  <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=Sithumsankajith&background=00000000&hide_border=true&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=FF0000" width="370px" />
 </div>
 
@@ -36,13 +33,15 @@
 
 <div align="center">
   <a href="https://github.com/sithumsankajith/github-readme-stats">
-    <!-- Top Languages -->
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithumsankajith&background=00000000&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=00000000&text_color=FF0000&title_color=FF0000" />
   </a>
 </div>
 
-<!-- GitHub Activity Graph -->
 [![Sithumsankajith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sithumsankajith&bg_color=00000000&color=FF0000&line=FF0000&point=FF0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  <img src="https://github.com/Sithumsankajith/Sithumsankajith/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
 
 <br>
 
