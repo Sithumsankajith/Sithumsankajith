@@ -23,19 +23,7 @@
 </a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sithumsankajith&custom_title=Sithum's+Github+Stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=FF0000&text_color=FF0000&icon_color=FF0000" width="370px" />
 
-  <img src="https://streak-stats.demolab.com/?user=Sithumsankajith&background=00000000&hide_border=true&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=FF0000" width="370px" />
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/sithumsankajith/github-readme-stats">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithumsankajith&background=00000000&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=00000000&text_color=FF0000&title_color=FF0000" />
-  </a>
-</div>
 
 [![Sithumsankajith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sithumsankajith&bg_color=00000000&color=FF0000&line=FF0000&point=FF0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
