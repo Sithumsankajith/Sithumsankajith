@@ -1,4 +1,4 @@
-ttt<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=260&section=header&text=Sithum%20Sankajith&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Undergraduate%20&%20Tech%20Enthusiast&descAlignY=60&descAlign=50" width="100%" />
 </div>
 <img align="left" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
